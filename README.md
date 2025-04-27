@@ -8,6 +8,8 @@ This project builds baseline and enhanced multimodal deep learning models for ch
 - Python version: 3.8+
 - Install required packages:
 
+## data
+
 
 
 # Chest X-ray Multimodal Disease Classification
