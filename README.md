@@ -66,3 +66,6 @@ Mixup data augmentation improves robustness.
 Monte Carlo Dropout to measure model uncertainty at test time.
 
 ![Screenshot (30)](https://github.com/user-attachments/assets/d2349014-3ee7-4eaf-a388-f5a5774a66e0)
+
+
+The above images shows how the enhanced model performs better than the baseline model
